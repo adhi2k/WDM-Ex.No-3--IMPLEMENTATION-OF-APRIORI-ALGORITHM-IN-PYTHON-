@@ -1,6 +1,6 @@
 # WDM-Ex.No-3--IMPLEMENTATION-OF-APRIORI-ALGORITHM-IN-PYTHON-
 ### Aim:
-            To implement Apriori Algorithm in python. <br>
+To implement Apriori Algorithm in python.
 ### Implementation Steps:
 Follow these steps to implement Apriori algorithm in Python: 
 
